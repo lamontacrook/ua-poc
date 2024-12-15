@@ -1,0 +1,16 @@
+.main-body .uaHeroMini {
+  height: 617px;
+  width: 100%;
+}
+
+.main-body .uaHeroMini img {
+  width: 100%;
+}
+
+.main-body .uaHeroMini .content-block {
+  text-align: center;
+}
+
+.main-body .uaHeroMini .content-block p {
+  text-align: unset;
+}
